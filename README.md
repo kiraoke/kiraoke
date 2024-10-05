@@ -88,7 +88,7 @@
 
 <div align="center">
   
-![](https://github-profile-trophy.vercel.app/?username=ingineous&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
+<img src="https://gh-readme-profile.vercel.app/api?username=ingineous&theme=catppuccin-mocha&hide=prs_merged,issues"/>
 
 </div>
 </details>
