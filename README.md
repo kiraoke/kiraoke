@@ -34,7 +34,7 @@
   <summary><b>Motto</b></summary>
 <div>
 
-- **"momento mori"**
+- **"drink and know things"**
   
 </div>
 </details>
