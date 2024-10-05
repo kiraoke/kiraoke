@@ -77,7 +77,7 @@
 
 <h6 align="center">
 
-  <img src="https://gh-readme-profile.vercel.app/api?username=ingineous&theme=neon-dark&border_width=0&border_radius=15.2&hide_border=true">
+  <img src="https://gh-readme-profile.vercel.app/api?username=ingineous&theme=catppuccin-mocha&hide=prs_merged,issues">
 
 </h6>
 </details>
@@ -88,7 +88,7 @@
 
 <div align="center">
   
-<img src="https://gh-readme-profile.vercel.app/api?username=ingineous&theme=catppuccin-mocha&hide=prs_merged,issues"/>
+![](https://github-profile-trophy.vercel.app/?username=ingineous&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
 </div>
 </details>
