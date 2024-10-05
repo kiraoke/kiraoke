@@ -7,7 +7,7 @@
 ![Profile Image](https://github.com/osiristape/osiristape/blob/main/profile_gitbug_optimized.png) -->
 <img src="https://github.com/ingineous/ingineous/blob/main/kurumi.gif" height="40%" width="40%"/>
 
-### About Me <img src="https://github.com/ingineous/ingineous/blob/main/kurumi.gif" height="40%" width="40%"/>
+### About Me <img src="https://media.tenor.com/uUNcnHwYJQEAAAAj/running-pikachu-transparent-snivee.gif" height="10%" width="10%"/>
 <h6> An introverted student who dwells in a nightmare <br> filled with an urge to unveil every door of the <br> afterlife never ends; instead of dying in dooms of <br> hopelessness, savor the demons that live within </h6>
 
 
