@@ -41,7 +41,7 @@
 
 ## 🍿 !notifs 
 <h6 align="center">
-  <img src="https://moe-counter.glitch.me/get/@osiristape?theme=rule34"  />
+  <img src="https://github.com/ingineous/ingineous/blob/main/moe.gif"  />
 </h6>
 
 
@@ -51,7 +51,7 @@
 <div styles="display: flex; flex-direction: column">
 
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=shf14ytn9hq7cmb4znjskxwr3&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=shf14ytn9hq7cmb4znjskxwr3&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=shf14ytn9hq7cmb4znjskxwr3&cover_image=false&theme=default&background_color=121212&&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=shf14ytn9hq7cmb4znjskxwr3&redirect=true)
 
 <br/>
 <br/>
