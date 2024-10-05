@@ -49,8 +49,11 @@
 
 
 <div styles="display: flex; flex-direction: column">
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=312vprgbiy5vh2vocqkmqv6jjlli&count=10&unique=true&width=400" alt="Spotify recently played"/>
 
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=shf14ytn9hq7cmb4znjskxwr3&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=shf14ytn9hq7cmb4znjskxwr3&redirect=true)
+
+<br/>
 <br/>
 
 
