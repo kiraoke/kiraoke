@@ -87,8 +87,8 @@
   <summary><b>🏆 GitHub Trophies</b></summary>
 
 <div align="center">
-  
-![](https://github-profile-trophy.vercel.app/?username=ingineous&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
+
+![](https://github-profile-trophy.vercel.app/?username=ingineous&theme=darkhub&no-frame=true&margin-w=4)  
 
 </div>
 </details>
