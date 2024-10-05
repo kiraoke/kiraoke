@@ -7,7 +7,7 @@
 ![Profile Image](https://github.com/osiristape/osiristape/blob/main/profile_gitbug_optimized.png) -->
 <img src="https://github.com/osiristape/osiristape/blob/main/anime_1858504493.png" height="20%" width="20%"/>
 
-### About Me <img src="https://github.com/ingineous/ingineous/blob/main/kurumi.gif" height="5%" width="5%"/>
+### About Me <img src="https://github.com/ingineous/ingineous/blob/main/kurumi.gif" height="40%" width="40%"/>
 <h6> An introverted student who dwells in a nightmare <br> filled with an urge to unveil every door of the <br> afterlife never ends; instead of dying in dooms of <br> hopelessness, savor the demons that live within </h6>
 
 
@@ -42,23 +42,18 @@
 ## 🍿 !notifs 
 <h6 align="center">
   <img src="https://moe-counter.glitch.me/get/@osiristape?theme=rule34"  />
-</h6 <br>
-<!--<p align="center"> 
-    <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=312vprgbiy5vh2vocqkmqv6jjlli&redirect=true">
-        <img title="spotify-github-profile" alt="spotify" src="https://spotify-github-profile.kittinanx.com/api/view?uid=312vprgbiy5vh2vocqkmqv6jjlli&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true"/></a>
-        https://spotify-github-profile.kittinanx.com/api/view?uid=312vprgbiy5vh2vocqkmqv6jjlli&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false
-    https://spotify-github-profile.kittinanx.com/api/view?uid=312vprgbiy5vh2vocqkmqv6jjlli&redirect=true--
-    https://profile-counter.glitch.me/osiristape/count.svg?
-    </p>-->
+</h6>
+
 
 <h6 align="center">
-  <!-- <img title="spotify-github-profile" alt="spotify" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=313hfc2beewahvywizatlu63l4f4&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false"/><br><br>
-   -->
 
+
+<div styles="display: flex; flex-direction: column">
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=312vprgbiy5vh2vocqkmqv6jjlli&count=10&unique=true&width=400" alt="Spotify recently played"/>
 
-<!-- 
-   [[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=shf14ytn9hq7cmb4znjskxwr3&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=shf14ytn9hq7cmb4znjskxwr3&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)]] -->
+<br/>
+
+
   <a href="https://github.com/ingineous">
   <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a> 
   <a href="https://x.com/ingineouss">
@@ -66,8 +61,8 @@
   <a href="https://www.youtube.com/@osiristape">
   <img src="https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" /></a> 
   
-  <!--
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=312vprgbiy5vh2vocqkmqv6jjlli&count=10&unique=true&width=400" alt="Spotify recently played"/> -->
+</div>
+
 
 </h6>
 
