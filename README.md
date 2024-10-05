@@ -77,7 +77,7 @@
 
 <h6 align="center">
 
-  <img src="https://gh-readme-profile.vercel.app/api?username=ingineous&theme=catppuccin-mocha&hide=prs_merged,issues">
+  <img src="https://gh-readme-profile.vercel.app/api?username=ingineous&theme=catppuccin-mocha&hide=prs_merged,issues&hide_stroke=true&hide_border=true">
 
 </h6>
 </details>
