@@ -1,7 +1,7 @@
 
 <img src="https://github.com/ingineous/ingineous/blob/main/kurumi.gif" height="40%" width="40%"/>
 
-### About Me <img src="https://media.tenor.com/uUNcnHwYJQEAAAAj/running-pikachu-transparent-snivee.gif" height="7%" width="7%"/>
+### About Me <img src="https://github.com/ingineous/ingineous/blob/main/pikachu.gif" height="7%" width="7%"/>
 <h6> A sigma skibidi rizzler ohio nigga </h6>
 
 
@@ -28,7 +28,7 @@
   <summary><b>Motto</b></summary>
 <div>
 
-- **"drink and know things"**
+- **"valar morghulis"**
   
 </div>
 </details>
