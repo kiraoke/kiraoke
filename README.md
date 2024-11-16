@@ -2,7 +2,7 @@
 <img src="https://github.com/ingineous/ingineous/blob/main/kurumi.gif" height="40%" width="40%"/>
 
 ### About Me <img src="https://github.com/ingineous/ingineous/blob/main/pikachu.gif" height="7%" width="7%"/>
-<h6> A sigma skibidi rizzler ohio nigga </h6>
+<h6>holy hawk tuah</h6>
 
 
 
