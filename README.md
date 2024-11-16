@@ -35,7 +35,7 @@
 
 ## 🍿 !notifs 
 <h6 align="center">
-  <img src="https://count.getloli.com/get/@ingineous?theme=rule34"  />
+  <img src="https://count.getloli.com/get/@kiraoke?theme=rule34"  />
 </h6>
 
 
@@ -51,7 +51,7 @@
 <br/>
 
 
-  <a href="https://github.com/ingineous">
+  <a href="https://github.com/kiraoke">
   <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a> 
   <a href="https://x.com/ingineouss">
   <img src="https://img.shields.io/badge/Twitter-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white alt=instagram style="margin-bottom: 5px;" /></a>
@@ -71,7 +71,7 @@
 
 <h6 align="center">
 
-  <img src="https://gh-readme-profile.vercel.app/api?username=ingineous&theme=catppuccin-mocha&hide=prs_merged,issues&hide_stroke=true&hide_border=true">
+  <img src="https://gh-readme-profile.vercel.app/api?username=kiraoke&theme=catppuccin-mocha&hide=prs_merged,issues&hide_stroke=true&hide_border=true">
 
 </h6>
 </details>
@@ -82,7 +82,7 @@
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=ingineous&theme=darkhub&no-frame=true&margin-w=4)  
+![](https://github-profile-trophy.vercel.app/?username=kiraoke&theme=darkhub&no-frame=true&margin-w=4)  
 
 </div>
 </details>
@@ -92,9 +92,9 @@
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ingineous/ingineous/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ingineous/ingineous/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ingineous/ingineous/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kiraoke/kiraoke/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kiraoke/kiraoke/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kiraoke/kiraoke/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
 </details>
