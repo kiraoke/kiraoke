@@ -1,7 +1,7 @@
 
-<img src="https://github.com/ingineous/ingineous/blob/main/kurumi.gif" height="40%" width="40%"/>
+<img src="https://github.com/kiraoke/kiraoke/blob/main/kurumi.gif" height="40%" width="40%"/>
 
-### About Me <img src="https://github.com/ingineous/ingineous/blob/main/pikachu.gif" height="7%" width="7%"/>
+### About Me <img src="https://github.com/kiraoke/kiraoke/blob/main/pikachu.gif" height="7%" width="7%"/>
 <h6>no thots head empty</h6>
 
 
@@ -50,7 +50,7 @@
 
   <a href="https://github.com/kiraoke">
   <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a> 
-  <a href="https://x.com/ingineouss">
+  <a href="https://x.com/kiraokes">
   <img src="https://img.shields.io/badge/Twitter-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white alt=instagram style="margin-bottom: 5px;" /></a>
 
   
