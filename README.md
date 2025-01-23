@@ -2,7 +2,7 @@
 <img src="https://github.com/ingineous/ingineous/blob/main/kurumi.gif" height="40%" width="40%"/>
 
 ### About Me <img src="https://github.com/ingineous/ingineous/blob/main/pikachu.gif" height="7%" width="7%"/>
-<h6>holy hawk tuah</h6>
+<h6>no thots head empty</h6>
 
 
 
@@ -11,14 +11,14 @@
 <summary><b>Skills</b></summary>
 <div>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,linux,arch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,arch,neovim)](https://skillicons.dev)
 
 </div>
    
 <summary><b>Learning</b></summary>
 <div>
   
-[![Learning](https://skillicons.dev/icons?i=rust,dart,flutter,nix,neovim)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=rust,dart,flutter,nix)](https://skillicons.dev)
   
 </div>
 </details>
@@ -44,9 +44,6 @@
 
 <div styles="display: flex; flex-direction: column">
 
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=shf14ytn9hq7cmb4znjskxwr3&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=shf14ytn9hq7cmb4znjskxwr3&redirect=true)
-
 <br/>
 <br/>
 
@@ -64,28 +61,6 @@
 
 ##
 
-
-
-<details>
-  <summary><b>📊 My Github Stats</b></summary>
-
-<h6 align="center">
-
-  <img src="https://gh-readme-profile.vercel.app/api?username=kiraoke&theme=catppuccin-mocha&hide=prs_merged,issues&hide_stroke=true&hide_border=true">
-
-</h6>
-</details>
-
-
-<details>
-  <summary><b>🏆 GitHub Trophies</b></summary>
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=kiraoke&theme=darkhub&no-frame=true&margin-w=4)  
-
-</div>
-</details>
 
 <details>
   <summary><b>⛎ My Pet</b></summary>
