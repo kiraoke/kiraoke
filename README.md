@@ -30,7 +30,7 @@
 </div>
 </details>
 
-## 🍿 !notifs
+## 󱔎 notifs
 
 <h6 align="center">
   <img src="https://count.getloli.com/@kiraoke?name=kiraoke&theme=booru-smtg&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto"  />
